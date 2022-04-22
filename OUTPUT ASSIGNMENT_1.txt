@@ -1,0 +1,40 @@
+#Question 1: Find the average of three numbers entered by the users.
+Enter the first number: 20
+Enter the second number: 40
+Enter the third number: 60
+The Average of three numbers is:
+ 40.0
+
+#Question 2: Compute a person's income tax (in $).
+Enter the gross income:
+600000
+Enter the number of dependents:
+3
+Taxable_income:
+ 581000.0
+Tax: 
+ 116200.0
+
+#Question 3: Store different data type values into a list.
+Enter the name of the Student: Palak Sharma
+Enter the Student ID:21102003
+Enter the gender of the Student(F,M,U): F
+Enter the Student's course name: Intro to computing
+Enter the Student's CGPA: 10
+['Name', 'SID', 'Gender', 'Course_name', 'CGPA']
+
+ The list of the student information:
+  ['Palak Sharma', 21102003, 'F', 'Intro to computing', 10.0]
+
+#Question 4: Make a list to enter marks of 5 students and display them in a sorted manner. 
+Enter the marks of the Student 1: 95
+Enter the marks of the Student 2: 89
+Enter the marks of the Student 3: 80
+Enter the marks of the Student 4: 100
+Enter the marks of the Student 5: 99
+
+ List of the Student Marks:
+  [95, 89, 80, 100, 99]
+
+ Sorted Student List (increasing order): 
+[80, 89, 95, 99, 100]

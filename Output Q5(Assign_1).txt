@@ -1,0 +1,13 @@
+#Question 5:- 
+(a)
+['RedGreen', 'White', 'Black', 'Pink', 'Yellow']
+
+ List after removing Black Color :
+  ['RedGreen', 'White', 'Pink', 'Yellow']
+
+ (b)
+['Red', 'Green', 'White', 'Black', 'Pink', 'Yellow']
+
+ List after replacing Black and Pink with Purple Color:
+  ['Red', 'Green', 'White', 'Purple', 'Yellow']
+
