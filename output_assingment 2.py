@@ -57,7 +57,7 @@ Bitwise Right shift b with 4 bits:
  0
 
 Enter the string:
-'my name is kashish'
+'my name is palak'
 
 The word 'name' is present in the entered string or not (Yes or No)?
 Yes 
