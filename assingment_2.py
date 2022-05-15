@@ -75,7 +75,7 @@ Side_2 = int(input("Enter the second side of a triangle:\n"))
 Side_3 = int(input("Enter the third side of a triangle:\n"))
 print("\nThe given input lengths can form a triangle or not (Yes or No)?")
 while(Side_1 + Side_2 > Side_3) and (Side_2 + Side_3 > Side_1) and (Side_3 +Side_1> Side_2):
-    print('Tringle is valid')
+    print('Triangle is valid')
     break
 
 #Question 6: Given two numbers ‘a’ and b’. Write a program to count number of bits needed to be flipped to convert ‘a’ to ‘b’.
